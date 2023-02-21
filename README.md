@@ -1,5 +1,5 @@
 # Калькулятор
 Calculator - создан для выполнения простых арифмитических операций с целыми, вещественными и дробными числами.
 # Установка
-1. Клонируйте репозиторий с github по ссылке https://github.com/KindSugar/Ks/p1/calculator.py
+1. Клонируйте репозиторий с github по ссылке https://github.com/KindSugar/Ks/blob/main/p1/calculator.py
 2. Для запуска проекта введите в командной строке: python calculator.py
