@@ -5,3 +5,4 @@ Calculator - создан для выполнения простых арифм�
 2. Для запуска проекта введите в командной строке: python calculator.py
 <img width="202" height="281" alt="1" src="https://github.com/user-attachments/assets/d5da8ae7-2baa-4a48-8e73-2df4fe30ee0c" />
 <img width="200" height="279" alt="2" src="https://github.com/user-attachments/assets/53b2add6-641d-4b99-bd29-c569c987cd52" />
+<img width="275" height="209" alt="rfekmrekznjh" src="https://github.com/user-attachments/assets/6a4c47fc-5c65-4719-99ae-cc010eb0c06f" />
