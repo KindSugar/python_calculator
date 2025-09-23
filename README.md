@@ -33,8 +33,8 @@
     ```
 
 ## Пример использования
-<img width="475" height="210" alt="Image 4" src="https://github.com/user-attachments/assets/08f75b33-03d1-48f5-9c63-24a8f8e51125" />
-<img width="477" height="209" alt="Image 2" src="https://github.com/user-attachments/assets/a0773f96-fb15-412f-a9dc-b69543371e91" />
+<img width="202" height="281" alt="1" src="https://github.com/user-attachments/assets/24c3eccf-ba8f-424d-aa6a-996574b33f3a" />
+<img width="200" height="279" alt="2" src="https://github.com/user-attachments/assets/a74214ea-cb0d-4048-84b7-91c98a0c8b23" />
 
 
 ## Структура проекта
